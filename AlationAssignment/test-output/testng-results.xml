@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16490" started-at="2019-02-26T18:40:42Z" finished-at="2019-02-26T18:40:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16490" started-at="2019-02-26T18:40:42Z" finished-at="2019-02-26T18:40:59Z">
+      <class name="com.test.Alationassignment">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.test.Alationassignment@20e2cbe0]" name="beforeSuite" is-config="true" duration-ms="51526" started-at="2019-02-26T18:39:51Z" finished-at="2019-02-26T18:40:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.test.Alationassignment@20e2cbe0]" name="test1" duration-ms="16457" started-at="2019-02-26T18:40:42Z" finished-at="2019-02-26T18:40:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.test.Alationassignment@20e2cbe0]" name="tearDown" is-config="true" duration-ms="1297" started-at="2019-02-26T18:41:05Z" finished-at="2019-02-26T18:41:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.Alationassignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
